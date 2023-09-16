@@ -4,7 +4,7 @@ public class Lec9polymorphism {
 	
 	//polymorphism have two method
 	//method over loading and method over riding
-	//method over riding: using the same method indifferent classes (duplicated method)
+	//method over riding: using the same method in different classes (duplicated method)
 	// method over loading: we have same method name with different parameter
 	
 	public void fblogin(String email,String PW) {}
